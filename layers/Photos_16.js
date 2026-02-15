@@ -1,0 +1,1 @@
+var json_Photos_16 = {"type":"FeatureCollection","name":"Photos_16","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"Génération automatique","Image":"Photos/Pavillon_etang.jpg"},"geometry":{"type":"Point","coordinates":[-0.648999300403099,46.868574265119257]}}]}
